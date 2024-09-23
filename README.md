@@ -1,5 +1,5 @@
 # Reproduction
-Reproduction of "Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting" paper
+Reproduction of the "Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting" paper
 
 ## Quickstart
 1. `git clone https://github.com/AStroCvijo/DCRNN_implementation`
