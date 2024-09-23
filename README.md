@@ -10,4 +10,6 @@ Reproduction of the "Diffusion Convolutional Recurrent Neural Network: Data-Driv
 
 4. `pip install -r requirements.txt`
 
-5. `python main.py`
+5. `pip install  dgl -f https://data.dgl.ai/wheels/torch-2.4/cu121/repo.html`
+
+6. `python main.py`
